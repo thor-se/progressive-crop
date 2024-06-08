@@ -1,0 +1,15 @@
+{
+  "originHash" : "98ad8b56c3f5630a8ce232716e628f2ee4f832a6de64550d4b4aba5ce4f7aefa",
+  "pins" : [
+    {
+      "identity" : "glur?tab=readme-ov-file",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/joogps/Glur?tab=readme-ov-file",
+      "state" : {
+        "revision" : "9e00ff79da318f2c78b749b1027e54a9d4de2e33",
+        "version" : "1.0.4"
+      }
+    }
+  ],
+  "version" : 3
+}
